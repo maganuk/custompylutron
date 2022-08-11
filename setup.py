@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name = 'custompylutron',
+    name = 'pylutron',
     version = '0.3.0',
     license = 'MIT',
     description = 'Python library for Lutron RadioRA 2',

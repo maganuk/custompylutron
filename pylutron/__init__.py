@@ -396,7 +396,7 @@ class LutronXmlDbParser(object):
                     num=component_number,
                     button_type=cci_type,
                     direction=None,
-                    led_logic=led_logic
+                    led_logic=led_logic,
                     uuid=cci_xml.get('UUID'))
     return button
 
